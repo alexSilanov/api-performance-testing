@@ -1,0 +1,7 @@
+jpgc-standard
+jpgc-casutg
+jpgc-tst
+jpgc-perfmon
+jpgc-dummy
+jpgc-ffw
+jpgc-graphs-basic
